@@ -1,0 +1,10 @@
+crossbow {
+  display: flex;
+  flex-direction: column-reverse;
+  justify-content: flex-end;
+  align-items: flex-end;
+}
+
+.target.female {
+  align-self:center;
+}
