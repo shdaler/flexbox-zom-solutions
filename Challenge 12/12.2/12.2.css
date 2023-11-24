@@ -4,7 +4,7 @@ crossbow {
 }
 
 .target.goo {
-align-self:stretch;
-flex-grow:1;
+  align-self:stretch;
+  flex-grow:1;
 
 }
