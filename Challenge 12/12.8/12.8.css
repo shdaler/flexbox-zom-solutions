@@ -6,7 +6,7 @@ crossbow {
 }
 
 .target:nth-of-type(2) {
-  align-self: stretch;
+   align-self: stretch;
   flex-grow:1;
   flex-shrink:2;
 }
