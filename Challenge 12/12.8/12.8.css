@@ -1,12 +1,12 @@
 crossbow {
-   display:flex;
+  display:flex;
   flex-direction:row-reverse;
   justify-content: flex-start;
   align-items:flex-end;
 }
 
 .target:nth-of-type(2) {
-   align-self: stretch;
+  align-self: stretch;
   flex-grow:1;
   flex-shrink:2;
 }
